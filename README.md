@@ -1,2 +1,2 @@
 # paper-wars
-A real-time multiplayer board game built with Flutter for the frontend and Node.js for the backend. 
+A real-time multiplayer board game built with Flutter for the frontend and Node.js for the backend. This project demonstrates how to create a seamless, real-time gaming experience using Socket.IO for communication between players. Players can join a game, roll dice, make moves, and see the game state update in real-time. The backend handles game logic, player matching, and state synchronization, while the Flutter frontend provides a responsive and visually appealing user interface.
